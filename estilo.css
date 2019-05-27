@@ -1,0 +1,13 @@
+input, textarea {
+    display: block;
+    margin:.5%;
+    padding:.5%;
+}
+
+input:focus, textarea:focus {
+    outline: none;
+}
+
+span {
+    display: none;
+}
